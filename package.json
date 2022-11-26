@@ -1,7 +1,7 @@
 {
   "name": "homepage-app",
   "version": "0.1.0",
-  "homepage": "https://{ElderlyC}.github.io/{MyFirstHomepage}",
+  "homepage": "https://ElderlyC.github.io/MyFirstHomepage",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.10.5",

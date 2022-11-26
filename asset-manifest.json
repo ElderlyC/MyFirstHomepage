@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/%7BMyFirstHomepage%7D/static/css/main.135d2455.css",
+    "main.js": "/%7BMyFirstHomepage%7D/static/js/main.36fc5bf0.js",
+    "static/js/845.2ccab7bb.chunk.js": "/%7BMyFirstHomepage%7D/static/js/845.2ccab7bb.chunk.js",
+    "static/js/787.209bb446.chunk.js": "/%7BMyFirstHomepage%7D/static/js/787.209bb446.chunk.js",
+    "static/media/music.mp3": "/%7BMyFirstHomepage%7D/static/media/music.d252bfb475067aac99c5.mp3",
+    "static/media/joseface.png": "/%7BMyFirstHomepage%7D/static/media/joseface.0c816b0db390e845609b.png",
+    "static/media/jonface.png": "/%7BMyFirstHomepage%7D/static/media/jonface.e47f55211e0765d16205.png",
+    "static/media/mikface.png": "/%7BMyFirstHomepage%7D/static/media/mikface.2bdebebc78469be3bc5f.png",
+    "static/media/cookieface.png": "/%7BMyFirstHomepage%7D/static/media/cookieface.54a7762afabef13747a5.png",
+    "static/media/coreyface.png": "/%7BMyFirstHomepage%7D/static/media/coreyface.9584a32359ab8c7ccfa9.png",
+    "static/media/joelface.png": "/%7BMyFirstHomepage%7D/static/media/joelface.19badfada966fe5d31d0.png",
+    "static/media/fionaface.png": "/%7BMyFirstHomepage%7D/static/media/fionaface.a44a86dddb309bab48f3.png",
+    "static/media/bakerface.png": "/%7BMyFirstHomepage%7D/static/media/bakerface.4e22db199043a010a99d.png",
+    "static/media/cwlogo.png": "/%7BMyFirstHomepage%7D/static/media/cwlogo.7ed2df0b278dc0cc087c.png",
+    "static/media/snort.mp3": "/%7BMyFirstHomepage%7D/static/media/snort.a844c11313be89d43bc9.mp3",
+    "index.html": "/%7BMyFirstHomepage%7D/index.html",
+    "main.135d2455.css.map": "/%7BMyFirstHomepage%7D/static/css/main.135d2455.css.map",
+    "main.36fc5bf0.js.map": "/%7BMyFirstHomepage%7D/static/js/main.36fc5bf0.js.map",
+    "845.2ccab7bb.chunk.js.map": "/%7BMyFirstHomepage%7D/static/js/845.2ccab7bb.chunk.js.map",
+    "787.209bb446.chunk.js.map": "/%7BMyFirstHomepage%7D/static/js/787.209bb446.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.135d2455.css",
+    "static/js/main.36fc5bf0.js"
+  ]
+}
